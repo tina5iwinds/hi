@@ -1,4 +1,5 @@
-body {
-  //  background: url("%E8%97%8D%E9%BB%9E%E9%BB%9E.jpg");
-    background-size: 1300px auto;
+.red{
+    text-align: center;
+    color: red;
+    font-size: 30px;
 }
